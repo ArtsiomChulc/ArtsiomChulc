@@ -1,15 +1,16 @@
 ### Hi there 👋,I'm Artsiom
 
 ## I'm a Front-End Developer from Belarus
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 - 💪 I like to write code
 - 🤹🏽 I am constantly learning new things
 
 ### Connect with me:
 
-[<img align="left" alt="MaksimSinkevich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%81%D0%B8%D0%BD%D1%8C%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-747892281/)
+[<img align="left" alt="ArtsiomChulc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/artem-chults-753996256/)
 [<img align="left" alt="ArtsiomChulc | Telegramm" width="22px" src="https://www.svgrepo.com/show/394493/telegram.svg"/>](https://t.me/ArtsiomChulc)
-[<img align="left" alt="MaksimSinkevich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/invites/contact/?i=sek373t35q4j&utm_content=8ei8ab8)
+[<img align="left" alt="ArtsiomChulc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/artemchults/)
 
 <br />
 
@@ -33,19 +34,8 @@
 <br />
 
 ### 🚀 My Stats:
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="border: none;">
-        <a href="https://git.io/streak-stats">
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=1Molot&hide_border=true" alt="GitHub Streak" style="border: none;">
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://github.com/1Molot/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Molot&langs_count=3&hide_border=true" alt="Top Languages" style="border: none;">
-        </a>
-      </td>
-    </tr>
-  </table>
 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtsiomChulc&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtsiomChulc)](https://github.com/anuraghazra/github-readme-stats)
 <br />
