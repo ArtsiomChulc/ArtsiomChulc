@@ -1,6 +1,6 @@
-### Hi there 👋,I'm Maksim
+### Hi there 👋,I'm Artsiom
 
-## I'm a Front-End Developer
+## I'm a Front-End Developer from Belarus
 
 - 💪 I like to write code
 - 🤹🏽 I am constantly learning new things
