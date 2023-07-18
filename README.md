@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm Artsiom
 
 ## I'm a Front-End Developer from Belarus
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=It-incubator+student)](https://git.io/typing-svg)
 
 - 💪 I like to write code
 - 🤹🏽 I am constantly learning new things
