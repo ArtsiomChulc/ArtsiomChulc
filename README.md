@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="MaksimSinkevich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%81%D0%B8%D0%BD%D1%8C%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-747892281/)
-[<img align="left" alt="MaksimSinkevich | Telegramm" width="22px" src="https://www.svgrepo.com/show/394493/telegram.svg"/>](https://t.me/Molot4)
+[<img align="left" alt="ArtsiomChulc | Telegramm" width="22px" src="https://www.svgrepo.com/show/394493/telegram.svg"/>](https://t.me/ArtsiomChulc)
 [<img align="left" alt="MaksimSinkevich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/invites/contact/?i=sek373t35q4j&utm_content=8ei8ab8)
 
 <br />
