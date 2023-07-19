@@ -21,9 +21,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452093/redux.svg" />
-<img align="left" alt="RestApi" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/261808/api.svg" />
 <img align="left" alt="Storybook" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354397/storybook-icon.svg" />
-<img align="left" alt="TDD" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/439003/test-driven-development.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
 <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452202/figma.svg" />
